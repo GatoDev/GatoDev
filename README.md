@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hey, I am David!
+## I am a game developer specializing in Unreal Engine and C++
 
 <!--
 **iDavidXx/iDavidXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
