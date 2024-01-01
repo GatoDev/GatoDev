@@ -6,3 +6,4 @@
 - 👯 I’m looking to collaborate: On game events.
 - 📫 How to reach me: Discord @gatodev
 
+## Read all about me and my projects on my website: https://gat0.dev
