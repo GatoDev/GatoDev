@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Gat0Dev"/></p> <p align="right">
+
 # Hey, I am David!
 ## I am a game developer and modder specializing in Unreal Engine and C++
 
