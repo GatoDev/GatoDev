@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/gat0dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gat0dev" height="30" width="40" /></a>
 <a href="https://instagram.com/gat0dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gat0dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@gatodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@gatodev" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/CZs9KJjWHF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CZs9KJjWHF" height="30" width="40" /></a>
+<a href="https://discord.gg/CZs9KJjWHF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CZs9KJjWHF" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Tools and Languages:</h3>
