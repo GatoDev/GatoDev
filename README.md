@@ -39,9 +39,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gat0dev&rank=-C,-B,-?&theme=onestar" alt="gat0dev" /></a> </p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <a href="https://discord.com/users/280664705683685386">
+<table>
+  <tr>
+    <td>
+      <a href="https://discord.com/users/280664705683685386">
         <img src="https://lanyard.cnrad.dev/api/280664705683685386" alt="Discord Presence"/>
-    </a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gat0dev&theme=dark" alt="GitHub Streak Stats"/>
-</div>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gat0dev&theme=dark" alt="GitHub Streak Stats"/>
+    </td>
+  </tr>
+</table>
+
