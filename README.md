@@ -39,4 +39,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gat0dev&rank=-C,-B,-?&theme=onestar" alt="gat0dev" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gat0dev&theme=dark" alt="gat0dev"/> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gat0dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="gat0dev" /></p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/280664705683685386)](https://discord.com/users/280664705683685386)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gat0dev&theme=dark" alt="gat0dev"/> 
