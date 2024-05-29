@@ -38,7 +38,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gat0dev&rank=-C,-B,-?&theme=onestar" alt="gat0dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gatodev&rank=-C,-B,-?&theme=onestar" alt="gatodev" /></a> </p>
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
       </a>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gat0dev&theme=dark" alt="GitHub Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gatodev&theme=dark" alt="GitHub Streak Stats"/>
     </td>
   </tr>
 </table>
