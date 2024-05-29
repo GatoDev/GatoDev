@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **Discord @gatodev**
 
-- 👨‍💻 All of my projects are available at [https://gat0.dev](https://gat0.dev)
+- 👨‍💻 All of my projects are available at [https://gato.dev](https://gato.dev)
 
-- 📄 Know about my experiences [https://gat0.dev](https://gat0.dev)
+- 📄 Know about my experiences [https://gato.dev](https://gato.dev)
 
-## Read all about me and my projects on my website: **https://gat0.dev**
+## Read all about me and my projects on my website: **https://gato.dev**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
