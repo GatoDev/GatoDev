@@ -8,7 +8,7 @@ Read all about me and my projects on my website: https://gato.dev </h2>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/gat0dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gat0dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gat0dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gat0dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gatodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gat0dev" height="30" width="40" /></a>
 <a href="https://instagram.com/gat0dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gat0dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@gatodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@gatodev" height="30" width="40" /></a>
 <a href="https://discord.gg/CZs9KJjWHF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CZs9KJjWHF" height="30" width="40" /></a>
