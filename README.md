@@ -1,10 +1,9 @@
 <p align="&#114;&#105;&#103;&#104;&#116;">&#32;<img src="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#107;&#111;&#109;&#97;&#114;&#101;&#118;&#46;&#99;&#111;&#109;&#47;&#103;&#104;&#112;&#118;&#99;&#47;&#63;&#117;&#115;&#101;&#114;&#110;&#97;&#109;&#101;&#61;&#71;&#97;&#116;&#48;&#68;&#101;&#118;&#38;&#97;&#98;&#98;&#114;&#101;&#118;&#105;&#97;&#116;&#101;&#100;&#61;&#116;&#114;&#117;&#101;&#38;&#115;&#116;&#121;&#108;&#101;&#61;&#102;&#111;&#114;&#45;&#116;&#104;&#101;&#45;&#98;&#97;&#100;&#103;&#101;&#38;&#98;&#97;&#115;&#101;&#61;&#49;&#49;&#48;&#48;&#48;"/></p>&#32;<p align="&#114;&#105;&#103;&#104;&#116;"> <!-- &#71;&#111;o&#x64;&#x20;&#106;&#x6f;&#98;&#44; &#121;&#111;&#117;&#x20;&#x64;&#x65;&#111;&#x62;&#102;&#117;&#x73;&#99;&#x61;&#x74;&#x65;&#x64;&#x20;&#x61;&#32;&#x73;&#x69;&#109;&#112;&#108;&#101;&#32;&#x63;&#x68;a&#114;&#97;&#x63;&#116;&#x65;&#x72;&#x20;&#101;&#x6e;&#116;&#x69;&#116;&#108;&#x65;s&#x2c;&#32;&#x64;&#111;&#32;&#x79;&#111;&#x75;&#x20;&#102;&#x65;&#101;&#x6c; &#x73;&#109;&#97;&#114;t&#x3f;&#32;&#x4a;&#x6f;&#x6b;&#x65;&#x2c;&#32;&#x64;&#111;&#110;&#x27;&#116;&#x20;&#115;&#x61;y&#x20;&#97;&#x6e;&#x79;&#x62;&#x6f;&#100;&#x79;&#x20;&#x6c;&#109;&#97;&#x6f; -->
 <p align="right"> <a href="https://twitter.com/gat0dev" target="blank"><img src="https://img.shields.io/twitter/follow/gat0dev?logo=twitter&style=for-the-badge" alt="gat0dev" /></a> </p>
 <h1 align="center">Hey, I am  GatoDev 😺</h1>
-<h2 align="center">I'm a professional Game dev and modder specialised in Unreal Engine 5</h3>
-
-
-<h2 align="center"> Read all about me and my projects on my website: https://gato.dev
+<h2 align="center">I'm a professional Game dev and modder specialised in Unreal Engine and Minecraft.
+  
+Read all about me and my projects on my website: https://gato.dev </h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
