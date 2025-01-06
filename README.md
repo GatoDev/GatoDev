@@ -36,9 +36,9 @@ Read all about me and my projects on my website: https://gato.dev </h2>
         <img src="https://lanyard.cnrad.dev/api/280664705683685386" alt="Discord Presence"/>
       </a>
     </td>
-    <td>
+   <!-- <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=gatodev&theme=dark" alt="GitHub Streak Stats"/>
-    </td>
+    </td> -->
   </tr>
 </table>
 
